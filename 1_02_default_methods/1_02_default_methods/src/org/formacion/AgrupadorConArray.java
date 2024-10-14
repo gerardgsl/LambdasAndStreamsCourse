@@ -17,7 +17,5 @@ public class AgrupadorConArray implements Agrupador {
 	public int numeroElementos() {
 		return index;
 	}
-	
-	
 
 }
